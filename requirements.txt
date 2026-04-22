@@ -1,0 +1,8 @@
+requests
+pandas
+time
+random
+BeautifulSoup
+datetime
+timezone
+timedelta
